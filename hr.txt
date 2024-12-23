@@ -1,0 +1,11 @@
+git init
+git status
+git add .
+git commit -m "gvhj"
+git status
+git push origin main
+git clone "url"
+git status
+git push origin main
+git fetch 
+git origin main
